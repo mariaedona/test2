@@ -103,6 +103,12 @@ nav .fa{
     }
 }
 
+@media(max-width: 450px){
+    .text-box h1{
+        font-size: 30px;
+    }
+}
+
 .about_website{
     width: 80;
     margin: auto;
